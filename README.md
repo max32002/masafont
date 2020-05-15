@@ -103,14 +103,8 @@ https://github.com/max32002/FakePearl
 https://github.com/max32002/YuPearl
 
 ## 相關影片
-* [MaxCodeReview] FontForge 補缺字：每 (正風毛筆字體)
-https://youtu.be/gGk8b3mkueE
-* [MaxCodeReview] FontForge 補缺字：吳 (正風毛筆字體)
-https://youtu.be/AvX97PFLYbM
-* [MaxCodeReview] FontForge 補缺字：孓 (正風毛筆字體)
-https://youtu.be/_LXPhFE-VmM
-* [MaxCodeReview] FontForge 補缺字：頹 (正風毛筆字體)
-https://youtu.be/4lFKWFG5FE4
+* [MaxCodeReview] FontForge 補字：石部 (正風毛筆字體)
+https://www.youtube.com/watch?v=Or5pABnALZc
 
 ## 毛筆字體的應用範例
 
