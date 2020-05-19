@@ -34,6 +34,8 @@
 
 ![正風毛筆字體](https://github.com/max32002/masafont/raw/master/preview/preview_style.png)
 
+軟語的「語」補的不好，字太重。
+
 ### 清除衡山毛筆行書字體裡空白的文字
 
 衡山毛筆行書字體裡有很多空白的字， 會造成無法讓系統自動用預設字體來補字，已清除空白的文字。
@@ -89,8 +91,8 @@ https://max-everyday.com/2020/03/swei-sans/
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
 https://max-everyday.com/2020/03/bakudaifont/
-* 正風毛筆字體 (Masa)
-https://max-everyday.com/2020/03/masafont/
+* 正風毛筆字體 (MasaFont)
+https://max-everyday.com/2020/05/masafont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
 * 源泉圓體
