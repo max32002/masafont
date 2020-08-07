@@ -69,8 +69,8 @@
 ```
 @font-face {
   font-family: masafont-Regular;
-  src: url(https://github.com/max32002/masafont/raw/master/webfont/MasaFont-Regular.woff2) format("woff2")
-  , url(https://github.com/max32002/masafont/raw/master/webfont/MasaFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/masafont@2.1/webfont/MasaFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/masafont@2.1/webfont/MasaFont-Regular.woff) format("woff");
 }
 ```
 您也可以透過從CDN引入在GitHub上woff2檔案的網址，再把上方的url()內容置換成CDN快取後的網址，將可大幅加快網頁載入。推薦使用 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
